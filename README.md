@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vandana Singh
 
-🎯 **Aspiring Data Analyst | SQL • Power BI • Python • Tableau • Excel**
+🎯 **Aspiring Data Analyst | SQL • Power BI • Python • Power BI • Excel**
 
 Welcome to my GitHub! I'm passionate about turning raw data into meaningful insights that solve real business problems. With hands-on experience in end-to-end data projects, I specialize in storytelling through data and crafting actionable dashboards for decision-makers.
 
