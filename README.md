@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm passionate about turning raw data into meaningful insi
 ## 🧠 About Me
 
 - 💡 Enthusiast of data-driven decision making
-- 🧰 Skilled in SQL, Power BI, Python (Pandas, Seaborn), Excel, and Tableau
+- 🧰 Skilled in SQL, Power BI, Python, Excel, and Power BI
 - 📊 Love analyzing trends, customer behavior, and business performance
 - 🚀 Eager to grow into a full-time Data Analyst role
 
@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm passionate about turning raw data into meaningful insi
 ---
 
 ### 📌 2. **Sales Data Analysis and Insight Generation**
-**Tools:** Python, SQL, Excel, Tableau  
+**Tools:** Python, SQL, Excel, Power BI  
 **Description:** Analyzed retail sales data to uncover revenue trends, seasonality, and underperforming regions. Used Python for EDA, SQL for metric aggregation, and Tableau for visual storytelling.  
 🔗 [View Project Repository](#) *(Replace with actual repo link)*
 
